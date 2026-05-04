@@ -29,6 +29,19 @@ The goal is to identify key churn drivers, segment customers based on risk level
 
 ---
 
+## 📸 Dashboard Preview
+
+### 🔹 Customer Overview
+![Customer Overview](Overview.png)
+
+### 🔹 Churn Drivers
+![Churn Drivers](Factors.png)
+
+### 🔹 Risk Segmentation
+![Risk Segmentation](Segmentation.png)
+
+---
+
 ## 📊 Key Insights
 - Month-to-month contracts show higher churn  
 - Customers with fewer services are more likely to churn  
